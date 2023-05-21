@@ -103,6 +103,7 @@ Finally, I supplement the default with the mean of the column
 
 I tried seven different methods for data normalization, and the z-score method performed the best in the end.
 
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/18.png)
 
 
 ### 2. Model linear fit
@@ -115,14 +116,16 @@ Among the three models, I iterated the corresponding hyperparameters to tune the
 
 1) Ridge Regression
 
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/19.png)
 
 2) Random Forest
 
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/20.png)
 
 3) Lasso
 
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/21.png)
 
-### 3. 
 
 
 
