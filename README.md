@@ -3,14 +3,17 @@
 
 
 ## Table Of Content
-1. [Project Descriptiom](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)<br>
-    A. Problem Statement<br>
-    B. Best Possible Solutions<br>
-    C. Introduction About Project<br>
-    D. Tools and Libraries
-2. [Data Collection](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
-3.  Generic Flow Of Project
-4. [EDA_and_Model_Fit](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Data_Processing.ipynb)<br>
+1. [Project background analysis](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)<br>
+    A. Market and social factors affecting house prices<br>
+    B. House price data<br>
+    C. Model building and evaluation metrics<br>
+2. EDA
+    A.Data Processing
+        a.Feature Selection
+        b.Data Cleaning
+    B.Data Standardization
+3.  Model linear fit
+5. [EDA_and_Model_Fit](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Data_Processing.ipynb)<br>
     A. Data Cleaning<br>
     B. Feature Engineering<br>
     C. Data Normalization
