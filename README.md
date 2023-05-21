@@ -42,6 +42,8 @@ This project utilized linear regression and random forest methods for predicting
 
 In my original dataset, there are a total of 80 columns. I first analyzed the correlation between each attribute in the data and housing prices in order to eliminate some data that is not linearly related to housing prices. Then, I performed feature extraction and data cleaning on the remaining attributes.
 
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/1.png)
+
 
 ##### 2.1.1 Feature Selection
 
