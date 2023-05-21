@@ -73,6 +73,15 @@ b) The impact of real estate factors on house prices:
 I have created scatter plots, box plots, histograms, and joint distribution plots to analyze the correlation between various real estate factors and house prices.
 
 
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/7.png)
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/8.png)
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/9.png)
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/10.png)
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/11.png)
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/12.png)
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/13.png)
+
+
 ##### 2.1.2 Data Cleaning
 
 Perform a log1p transformation on the target data to make its distribution closer to a standard normal distribution.
