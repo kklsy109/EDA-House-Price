@@ -52,6 +52,8 @@ I analyzed the factors influencing housing prices from two perspectives:
 1) The impact of market factors on housing prices:
 I created a chart combining histograms and line graphs to observe the differences in housing prices across different regions.
 
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/2.png)
+
 I compared the selling prices of houses horizontally and vertically based on the year and month of sale.
 
 In addition, the year of construction of the property also has a certain influence on the housing prices.
