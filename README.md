@@ -8,8 +8,8 @@
     C. Model building and evaluation metrics<br>
 3. [EDA](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Housing_Price_Predication_Project_EDA_and_Model_Fit.ipynb)<br>
     A.Data Processing
-        a.Feature Selection
-        b.Data Cleaning
+    a.Feature Selection
+    b.Data Cleaning
     B.Data Standardization
 4.  [Model linear fit](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Housing_Price_Predication_Project_EDA_and_Model_Fit.ipynb)<br>
 5. [EDA_and_Model_Fit](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Housing_Price_Predication_Project_EDA_and_Model_Fit.ipynb)<br>
