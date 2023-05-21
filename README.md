@@ -30,6 +30,7 @@ This project utilized linear regression and random forest methods for predicting
 ### 2. EDA
 #### 2.1 Data Processing
 In my original dataset, there are a total of 80 columns. I first analyzed the correlation between each attribute in the data and housing prices in order to eliminate some data that is not linearly related to housing prices. Then, I performed feature extraction and data cleaning on the remaining attributes.
+
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/1.png)
 
 
@@ -39,22 +40,27 @@ I analyzed the factors influencing housing prices from two perspectives:
 a) The impact of market factors on housing prices:
 
 I created a chart combining histograms and line graphs to observe the differences in housing prices across different regions.
+
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/2.png)
 
 I compared the selling prices of houses horizontally and vertically based on the year and month of sale.
+
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/3.png)
 
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/4.png)
 
 In addition, the year of construction of the property also has a certain influence on the housing prices.
+
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/5.png)
 
 I also created a heatmap illustrating the relationship between the year of construction and the location of properties in terms of housing prices.
+
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/6.png)
 
 
 b) The impact of real estate factors on house prices:
 I have created scatter plots, box plots, histograms, and joint distribution plots to analyze the correlation between various real estate factors and house prices.
+
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/7.png)
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/8.png)
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/9.png)
@@ -88,12 +94,15 @@ First, I compared the Ridge, Random Forest, and Lasso models as target models, f
 Among the three models, I iterated the corresponding hyperparameters to tune the model parameters for the best results. In the iterative process, I chose cross-validation as the method to evaluate the model score and error rate. By plotting the hyperparameters and cross-validation scores, it can be observed that the model fit results can be locally optimized to the best.
 
 1) Ridge Regression
+
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/19.png)
 
 2) Random Forest
+
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/20.png)
 
 3) Lasso
+
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/21.png)
 
 
