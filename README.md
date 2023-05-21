@@ -1,19 +1,18 @@
 # Kaggle-House-Price-Solution
 
-
-
 ## Table Of Content
-1. [Project background analysis](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)<br>
+1. [Project Descriptiom](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)<br>
+2. [Project background analysis](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Analysis_of_Data_Background.ipynb)<br>
     A. Market and social factors affecting house prices<br>
     B. House price data<br>
     C. Model building and evaluation metrics<br>
-2. EDA
+3. [EDA](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Housing_Price_Predication_Project_EDA_and_Model_Fit.ipynb)<br>
     A.Data Processing
         a.Feature Selection
         b.Data Cleaning
     B.Data Standardization
-3.  Model linear fit
-5. [EDA_and_Model_Fit](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Data_Processing.ipynb)<br>
+4.  [Model linear fit](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Housing_Price_Predication_Project_EDA_and_Model_Fit.ipynb)<br>
+5. [EDA_and_Model_Fit](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Housing_Price_Predication_Project_EDA_and_Model_Fit.ipynb)<br>
     A. Data Cleaning<br>
     B. Feature Engineering<br>
     C. Data Normalization
