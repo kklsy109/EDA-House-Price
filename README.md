@@ -37,6 +37,7 @@ In my original dataset, there are a total of 80 columns. I first analyzed the co
 I analyzed the factors influencing housing prices from two perspectives:
 
 a) The impact of market factors on housing prices:
+
 I created a chart combining histograms and line graphs to observe the differences in housing prices across different regions.
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/2.png)
 
