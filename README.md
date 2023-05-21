@@ -49,7 +49,7 @@ In my original dataset, there are a total of 80 columns. I first analyzed the co
 
 I analyzed the factors influencing housing prices from two perspectives:
 
-1) The impact of market factors on housing prices:
+a) The impact of market factors on housing prices:
 I created a chart combining histograms and line graphs to observe the differences in housing prices across different regions.
 
 ![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/2.png)
@@ -65,7 +65,7 @@ In addition, the year of construction of the property also has a certain influen
 I also created a heatmap illustrating the relationship between the year of construction and the location of properties in terms of housing prices.
 
 
-2) The impact of real estate factors on house prices:
+b) The impact of real estate factors on house prices:
 I have created scatter plots, box plots, histograms, and joint distribution plots to analyze the correlation between various real estate factors and house prices.
 
 
