@@ -66,6 +66,8 @@ In addition, the year of construction of the property also has a certain influen
 
 I also created a heatmap illustrating the relationship between the year of construction and the location of properties in terms of housing prices.
 
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/6.png)
+
 
 b) The impact of real estate factors on house prices:
 I have created scatter plots, box plots, histograms, and joint distribution plots to analyze the correlation between various real estate factors and house prices.
