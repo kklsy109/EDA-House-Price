@@ -85,17 +85,19 @@ I have created scatter plots, box plots, histograms, and joint distribution plot
 ##### 2.1.2 Data Cleaning
 
 Perform a log1p transformation on the target data to make its distribution closer to a standard normal distribution.
-
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/14.png)
 
 First, I convert the categorical data "MSSubClass" of numerical type into strings because its numerical values do not have a numeric meaning in themselves.
-
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/15.png)
 
 
 
 
 Then, I apply one-hot encoding to all the string data in the dataset, which will facilitate data fitting later.
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/16.png)
 
-
+Finally, I supplement the default with the mean of the column
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/17.png)
 
 #### 2.2 Data Standardization
 
