@@ -62,6 +62,8 @@ I compared the selling prices of houses horizontally and vertically based on the
 
 In addition, the year of construction of the property also has a certain influence on the housing prices.
 
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/5.png)
+
 I also created a heatmap illustrating the relationship between the year of construction and the location of properties in terms of housing prices.
 
 
