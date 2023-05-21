@@ -56,6 +56,10 @@ I created a chart combining histograms and line graphs to observe the difference
 
 I compared the selling prices of houses horizontally and vertically based on the year and month of sale.
 
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/3.png)
+
+![](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Pictures/4.png)
+
 In addition, the year of construction of the property also has a certain influence on the housing prices.
 
 I also created a heatmap illustrating the relationship between the year of construction and the location of properties in terms of housing prices.
