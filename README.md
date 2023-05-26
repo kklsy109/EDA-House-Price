@@ -7,10 +7,10 @@
     1.2. House price data<br>
     1.3. Model building and evaluation metrics<br>
 2. [EDA](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Housing_Price_Predication_Project_EDA_and_Model_Fit.ipynb)<br>
-    2.1.Data Processing
-    2.1.1.Feature Selection
-    2.1.2.Data Cleaning
-    2.2.Data Standardization
+    2.1.Data Processing<br>
+    2.1.1.Feature Selection<br>
+    2.1.2.Data Cleaning<br>
+    2.2.Data Standardization<br>
 3.  [Model linear fit](https://github.com/kklsy109/Kaggle-House-Price-Solution/blob/main/Housing_Price_Predication_Project_EDA_and_Model_Fit.ipynb)<br>
 
   
