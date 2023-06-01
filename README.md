@@ -1,4 +1,5 @@
-# Kaggle-House-Price-Solution
+# EDA-House-Price
+
 
 ## Table Of Content
 [Project Descriptiom](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)<br>
